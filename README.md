@@ -1,5 +1,5 @@
 # test-task-3
-Task: to refactor this code, optimeze, make it more readable:
+Task: to refactor this code, optimize, make it more readable:
 
 ```java
 void processTask(ChannelHandlerContext ctx) {
